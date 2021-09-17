@@ -1,0 +1,10 @@
+com\shopping\controller\CartController.class
+com\shopping\repository\ProductRepository.class
+com\shopping\entity\Product.class
+com\shopping\entity\Cart.class
+com\shopping\repository\CartRepository.class
+com\shopping\entity\User.class
+com\shopping\service\ProductService.class
+com\shopping\controller\ProductController.class
+com\shopping\service\CartService.class
+com\shopping\ShoppingApplication.class
